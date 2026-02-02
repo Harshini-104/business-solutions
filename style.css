@@ -757,6 +757,10 @@ body {
         justify-content: center;
         text-align: left;
     }
+
+    .hero-section{
+        height: 170vh;
+    }
 }
 
 /* section pricing */
@@ -984,7 +988,6 @@ body {
     margin-bottom: 20px;
 }
 
-/* Read More */
 .read-more {
     display: inline-flex;
     align-items: center;
